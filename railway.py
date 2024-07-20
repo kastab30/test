@@ -1,1 +1,1 @@
-r_stations = [durgapur, kolkata, howrah, bihar, mirzapur, test]
+r_stations = [durgapur, kolkata, howrah, bihar, mirzapur, chandigarh_station]
